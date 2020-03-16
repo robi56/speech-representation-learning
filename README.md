@@ -45,9 +45,9 @@ more datasets: ‘voxforge-ru-clean’ и ‘yt-vad-650-clean’. [BUILDING CORP
 10. TIMIT dataset. The TIMIT corpus of read speech is designed to provide speech data for acoustic-phonetic studies and for the development and evaluation of automatic speech recognition systems. TIMIT contains broadband recordings of 630 speakers of eight major dialects of American English, each reading ten phonetically rich sentences. The TIMIT corpus includes time-aligned orthographic, phonetic and word transcriptions as well as a 16-bit, 16kHz speech waveform file for each utterance. Corpus design was a joint effort among the Massachusetts Institute of Technology (MIT), SRI International (SRI) and Texas Instruments, Inc. (TI). The speech was recorded at TI, transcribed at MIT and verified and prepared for CD-ROM production by the National Institute of Standards and Technology (NIST). [https://catalog.ldc.upenn.edu/LDC93S1] [EXPLORING SPECTRO-TEMPORAL FEATURES IN END-TO-END CONVOLUTIONAL NEURAL NETWORKS]
 
 11. VoxCeleb2 dataset. VoxCeleb2 contains over 1 million utterances for 6,112 celebrities, extracted from videos uploaded to YouTube. The development set of VoxCeleb2 has no overlap with the identities in the VoxCeleb1 or SITW datasets.
- # of speakers	5,994	118
-# of videos	145,569	4,911
-# of utterances	1,092,009	36,237 
+of speakers	5,994	118
+of videos	145,569	4,911
+of utterances	1,092,009	36,237 
 
 [http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html] [UTTERANCE-LEVEL AGGREGATION FOR SPEAKER RECOGNITION IN THE WILD]
 
