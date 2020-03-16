@@ -2,7 +2,7 @@
 
 
 
-## Dataset 
+## Dataset [Speech recognition/ Speaker Recognition] 
 
 1. UIDs is collected from anonymized voice search queries. Table 4 lists statistics for the utterances, the durations of which
 mostly range from 3 to 5 seconds. The full training partition, Train250k, comprises 249,312 speakers, 12,202,181 utterances, and more than 12,600 hours of speech. The subset Train50k
@@ -55,9 +55,14 @@ of utterances	1,092,009	36,237
 
 13. The VoxCeleb1 Dataset. VoxCeleb1 contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube. [http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html]
 
+14. ETAPE TV subset, The ETAPE TV subset contains 29 hours of TV broadcast (18h for training, 5.5h for development and 5.5h for test) from three French TV channels with news, debates, and en- tertainment [http://www.lrec-conf.org/proceedings/lrec2012/pdf/495_Paper.pdf][TRISTOUNET: TRIPLET LOSS FOR SPEAKER TURN EMBEDDING Herv´e Bredin
+LIMSI, CNRS, Universit´e Paris-Saclay arXiv:1609.04301v3]
 
 
 
+
+
+ 
 
 
 
